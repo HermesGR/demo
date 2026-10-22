@@ -1,0 +1,140 @@
+{
+  "schema": 1,
+  "games": [
+    {
+      "id": "crash",
+      "title": "Crash Bandicoot (PS1)",
+      "category": "PlayStation 1",
+      "platform": "ps1",
+      "art_system": "Sony - PlayStation",
+      "art_title": "Crash Bandicoot (USA)",
+      "asset": "crash.zip"
+    },
+    {
+      "id": "tomb-raider",
+      "title": "Tomb Raider (PS1)",
+      "category": "PlayStation 1",
+      "platform": "ps1",
+      "art_system": "Sony - PlayStation",
+      "art_title": "Tomb Raider (USA)",
+      "asset": "tomb-raider.zip"
+    },
+    {
+      "id": "gran-turismo",
+      "title": "Gran Turismo (PS1)",
+      "category": "PlayStation 1",
+      "platform": "ps1",
+      "art_system": "Sony - PlayStation",
+      "art_title": "Gran Turismo (USA)",
+      "asset": "gran-turismo.zip"
+    },
+    {
+      "id": "donkey-kong-country",
+      "title": "Donkey Kong Country",
+      "category": "Nintendo — Super Nintendo",
+      "platform": "snes",
+      "art_system": "Nintendo - Super Nintendo Entertainment System",
+      "art_title": "Donkey Kong Country (USA)",
+      "asset": "donkey-kong-country.zip"
+    },
+    {
+      "id": "super-mario-world",
+      "title": "Super Mario World",
+      "category": "Nintendo — Super Nintendo",
+      "platform": "snes",
+      "art_system": "Nintendo - Super Nintendo Entertainment System",
+      "art_title": "Super Mario World (USA)",
+      "asset": "super-mario-world.zip"
+    },
+    {
+      "id": "sonic",
+      "title": "Sonic",
+      "category": "Sega — Mega Drive",
+      "platform": "megadrive",
+      "art_system": "Sega - Mega Drive - Genesis",
+      "art_title": "Sonic The Hedgehog (USA, Europe)",
+      "asset": "sonic.zip"
+    },
+    {
+      "id": "bobble-bubble",
+      "title": "Bobble Bubble",
+      "category": "Arcade",
+      "platform": "arcade",
+      "art_system": "MAME",
+      "art_title": "Bubble Bobble",
+      "asset": "bobble-bubble.zip"
+    },
+    {
+      "id": "rainbow-islands",
+      "title": "Rainbow Islands",
+      "category": "Arcade",
+      "platform": "arcade",
+      "art_system": "MAME",
+      "art_title": "Rainbow Islands",
+      "asset": "rainbow-islands.zip"
+    },
+    {
+      "id": "pac-man",
+      "title": "Pac-Man",
+      "category": "Arcade",
+      "platform": "arcade",
+      "art_system": "MAME",
+      "art_title": "Pac-Man",
+      "asset": "pac-man.zip"
+    },
+    {
+      "id": "pang-world",
+      "title": "Pang World",
+      "category": "Arcade",
+      "platform": "arcade",
+      "art_system": "MAME",
+      "art_title": "Pang (World)",
+      "asset": "pang-world.zip"
+    },
+    {
+      "id": "nba-jam",
+      "title": "NBA Jam",
+      "category": "Arcade",
+      "platform": "arcade",
+      "art_system": "MAME",
+      "art_title": "NBA Jam",
+      "asset": "nba-jam.zip"
+    },
+    {
+      "id": "metal-slug",
+      "title": "Metal Slug",
+      "category": "Arcade",
+      "platform": "arcade",
+      "art_system": "MAME",
+      "art_title": "Metal Slug",
+      "asset": "metal-slug.zip"
+    },
+    {
+      "id": "arkanoid",
+      "title": "Arkanoid",
+      "category": "Arcade",
+      "platform": "arcade",
+      "art_system": "MAME",
+      "art_title": "Arkanoid (World)",
+      "asset": "arkanoid.zip"
+    },
+    {
+      "id": "street-fighter",
+      "title": "Street Fighter",
+      "category": "Arcade",
+      "platform": "arcade",
+      "art_system": "MAME",
+      "art_title": "Street Fighter",
+      "asset": "street-fighter.zip"
+    },
+    {
+      "id": "double-dragon",
+      "title": "Double Dragon",
+      "category": "Arcade",
+      "platform": "arcade",
+      "art_system": "MAME",
+      "art_title": "Double Dragon",
+      "asset": "double-dragon.zip"
+    }
+  ]
+}
